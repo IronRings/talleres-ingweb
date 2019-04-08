@@ -76,3 +76,5 @@ Pide al servidor que actualize el servidor HTTP.
 | RES | | | Server, Date, Content-Type, Transfer-Encoding, Connection, X-Powered-By, Expires, Last-Modified, Cache-Control | 200 |
 | REQ | GET | https://nave13.ucv.cl/css/nave.css | User-Agent, Accept | |
 | RES | | | Server, Date, Content-Type, Content-Length, Last-Modified, ETag, Accept-Ranges | 200 |
+
+Al ingresar la URL en el navegador, el servidor respondió correctamente en todos los casos (status fue siempre 200).
